@@ -2,7 +2,7 @@ Private Final Consumption Expenditure Analysis (2004-05 to 2010-11)
 
 A comprehensive data analysis project examining structural trends and macroeconomic growth patterns in private final consumption expenditure in the domestic market across a seven-year timeline.
 
-📌 Project Overview
+Project Overview
 This project focuses on tracking, cleaning, and visualizing national accounts consumer spending records. By analyzing shifts in expenditure across major sector groups and specific consumer items, the project provides clear insights into consumer behavior, market dominance, and overall economic expansion.
 
  Key Objectives:
@@ -13,7 +13,7 @@ This project focuses on tracking, cleaning, and visualizing national accounts co
 
 ---
 
-📊 Key Analytical Insights
+Key Analytical Insights
 
 Based on the core dataset analysis, the following structural patterns were uncovered:
 
@@ -27,14 +27,14 @@ Based on the core dataset analysis, the following structural patterns were uncov
 
 ---
 
-🔎 Tools Used
+ Tools Used
 * Microsoft Excel: Utilized for initial data ingestion, structural formatting, data cleaning (removing aggregate nested rows, validating blank attributes), and validating base PivotTable distributions.
 
 * Power BI Desktop: Used to construct the semantic data model, author complex dimensional relationships, and design interactive visual canvas interfaces.
 
 ---
 
-# 🗒 Steps Followed
+ Steps Followed
 
 1. Data Cleaning & Extraction
 * Isolated granular item rows from original macro reporting tables to eliminate double-counting from parent totals.
@@ -51,22 +51,8 @@ Based on the core dataset analysis, the following structural patterns were uncov
 * Integrated multi-tier slicers to allow users to filter down seamlessly by Group Name, Financial Year, or specific consumer goods.
 
 ---
-
-🖼 Dashboard Screenshots
-
-
-Macro Consumption Overview
-
-
----
-
-📖 How to Open and Explore
+ 
+ How to Open and Explore
 
 Reviewing the Report:
-* Open the �Project Documentation� file to read the full formatted summary.
-
-Interacting with the Live Dashboard:
-1. Download and install the free Power BI Desktop application.
-2. Clone or download this repository to your local machine.
-3. Navigate to the `Dashboard/` folder and open `Dashboard.pbix`.
-4. Use canvas slicers and filter panes to slice through different financial years or toggle between product groups.
+* Open the ‘Project Documentation’ file to read the full formatted report.
