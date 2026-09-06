@@ -56,32 +56,17 @@ Based on the core dataset analysis, the following structural patterns were uncov
 
 
 Macro Consumption Overview
-![Macro Analysis Dashboard](https://unsplash.com)
-*Figure 1: Interactive Power BI dashboard layout mapping consumption growth and group metrics.*
 
----
-
-## 📂 Repository Directory Structure
-
-```text
-├── Data/
-│   └── consumption_expenditure_data.csv    # Cleaned historical source dataset
-├── Dashboard/
-│   └── consumption_dashboard.pbix         # Interactive Power BI Desktop file
-├── Documentation/
-│   └── project_documentation.docx         # Full, editable project report
-└── README.md                              # Repository homepage markdown file
-```
 
 ---
 
 📖 How to Open and Explore
 
 Reviewing the Report:
-* Open the `Documentation/project_documentation.docx` file in any standard word processor (Microsoft Word, Google Docs) to read the full formatted summary.
+* Open the �Project Documentation� file to read the full formatted summary.
 
 Interacting with the Live Dashboard:
 1. Download and install the free Power BI Desktop application.
 2. Clone or download this repository to your local machine.
-3. Navigate to the `Dashboard/` folder and open `consumption_dashboard.pbix`.
-4. Use the canvas slicers and filter panes to slice through different financial years or toggle between product groups.
+3. Navigate to the `Dashboard/` folder and open `Dashboard.pbix`.
+4. Use canvas slicers and filter panes to slice through different financial years or toggle between product groups.
